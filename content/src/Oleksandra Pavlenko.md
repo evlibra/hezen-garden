@@ -1,6 +1,6 @@
 Systems: Naturopathy
 
-Areas: Holistic healing
+Areas: Holistic healing, [[Body]]
 
 Resources:
 https://www.instagram.com/pavlenko.as/?hl=en

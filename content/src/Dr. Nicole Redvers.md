@@ -1,6 +1,6 @@
 Systems: Indigenous
 
-Areas: Indigenous Planetary Health
+Areas: Indigenous Planetary Health, [[Body]]
 
 Resources:
 https://www.nicoleredvers.com/
