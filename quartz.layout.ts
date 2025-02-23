@@ -8,7 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      HeZen portal: "https://hezen.us",
+      //GitHub: "https://github.com/jackyzha0/quartz",
+      //"Discord Community": "https://discord.gg/cRFFHYye7t",
+	  "HeZen portal": "https://hezen.us",
       "Courses": "https://healthclub.hezen.us",
     },
   }),
@@ -18,7 +20,6 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-	Component.Graph(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
