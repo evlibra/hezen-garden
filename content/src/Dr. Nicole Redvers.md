@@ -1,6 +1,7 @@
-Systems: Indigenous
+[[Expert]]
+Areas: Indigenous Planetary Health
 
-Areas: Indigenous Planetary Health, [[Body]]
+Systems: Indigenous
 
 Resources:
 https://www.nicoleredvers.com/
